@@ -1,0 +1,97 @@
+body {
+	margin:0;
+  background-image:url(images/back.jpeg)
+}
+marquee.black {
+	background-color: black;
+	color: yellow;
+	font-wight: bold;
+	border-bottom: 3px solid yellow;
+}
+marquee.white {
+	background-color: gray;
+	color: red;
+	font-wight: bold;
+	border-bottom: 3px solid blue;
+}
+.first-navigation {
+  list-style-type: none;
+  float: right;
+  font-size: 0.8em;
+}
+.first-navigation li {
+	display: inline-block;
+	padding: 0.5em 0.5em 0 0;
+}
+.first-navigation li:first-child a{
+	background: yellow;
+	padding: 0.2em;
+	text-decoration: none;
+}
+.first-navigation li a, .first-navigation li tel{
+	text-decoration: none;
+	color: #333
+}
+.second-navigation {
+  text-align:left;
+  list-style-type: none;
+  float:down;
+  font-size: 1.1em;
+}
+.second-navigation li {
+	display: inline-block;
+	padding: 0.5em 0.9em 0.5em 0.5em;
+}
+.second-navigation li a{
+	text-decoration: none;
+	font-weight:bold;
+	color: #333
+}
+button{
+  background-color:#ffd700;
+  border: none;
+  color: black;
+  padding: 25px 25px 25px 25px;
+}
+input[type=text] {
+  width: 500px;
+  padding: 25px 25px 25px 25px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+.box{
+
+	min-height:100px;
+	overflow: hidden;
+}
+
+.box4{
+  min-height:100px;
+	overflow: hidden;
+}
+
+
+.box2{
+	
+  border: 3px solid yellow;
+	min-height:100px;
+	overflow: hidden;
+}
+
+.box3{
+	overflow: hidden;
+}
+.carousel-inner{
+  height:350px;
+	
+}
+.p{
+  
+  text-justify: 10px;
+}
+.page-footer font-small blue{
+  background-color: black;
+  font-size:10px;
+  
+}
