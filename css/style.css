@@ -1,52 +1,38 @@
-.box{
-	
-	background-color:white;
-	border:1px solid black;
-	min-height:300px;
-	overflow:hidden;
+.box{ 
+  border: 1px solid black;
+  min-height: 80px;
+  background-color: white;
+  overflow: hidden;
+  .box{
+    min-height:80px;
+    overflow: hidden;
 }
-.Head{
-   
-	background-color:white;
-	border:1px solid black;
-	min-height:100px;
-	overflow:hidden;
-       
-		
+.box4{
+  min-height:100px;
+    overflow: hidden;
 }
-
-.image{
-	background-color:white;
-	border:1px solid black;
-	min-height:300px;
-	overflow:hidden;
-		
+.box2{
+    
+  border: 1px solid black;
+    min-height:100px;
+    overflow: hidden;
 }
-.map{
-	background-color:white;
-	border:1px solid black;
-	min-height:300px;
-	overflow:hidden;
-		
+.box3{
+    overflow: hidden;
 }
-
-
-.container {
-
+.carousel-inner{
+  height:350px;
+    
 }
-
-.row {
-
+.p{
+  
+  text-justify: 10px;
+}
+.page-footer font-small blue{
+  background-color: black;
+  font-size:10px;
+  
+}
+Collapse
 }
 
-.col-md-12 {
-
-}
-
-.head {
-
-}
-
-.w3-center {
-
-}
