@@ -97,6 +97,7 @@ button{
   background-color: black;
   font-size:10px;
   
+<<<<<<< HEAD
 }
 
 
@@ -173,4 +174,8 @@ body {
   .topnav input[type=text] {
     border: 1px solid #ccc;  
   }
+=======
+}.carousel {
+
+>>>>>>> 83cb8a13a57130d77e5926ee037d5249d851b2aa
 }
