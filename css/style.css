@@ -1,5 +1,5 @@
-.box{
-	
+.box{ 
+
 	background-color:white;
 	border:1px solid black;
 	min-height:300px;
@@ -27,22 +27,22 @@
 	border:1px solid black;
 	min-height:300px;
 	overflow:hidden;
-		
+    
 }
 
 
 .container {
 
 }
-
+    
 .row {
 
 }
-
+  
 .col-md-12 {
 
 }
-
+  
 .head {
 
 }

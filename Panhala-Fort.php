@@ -1,71 +1,7 @@
-<html>
-  <head>
-    <title>My Kolhapur</title>
-    <link rel="stylesheet" href="css/stylefor-panhala-fort.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  </head>
-  <body bgcolor=pink>
-    <div class="">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="box">
-
-            <div>
-              <!-- Header Image and text -->
-              <nav class="navbar navbar-toggler bg-toggler">
-                <a class="navbar-toggler" href="#">
-                  <img src="images/logo.jpg" width="130" height="100" class="d-inline-block align-top" alt="">
-                  <img src="images/bread.jpg" width="1650" height="100" class="d-inline-block align-top" alt="">
-                  <font color="red" size="50"></font>
-                </a>
-              </nav>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="">
-      <div class="row">
-        <div class="col-md-4">
-          <div class="box2">
-            <img src="images/logo2.jpg" width="130" height="100"> 
-            <font face="calibari" color="Green" size="5"> Know About Kolhapur</font>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="box2">
-            <ul class="second-navigation">
-              <li><a href="index.html">Home</a></li>
-              <li><a href="khasbag_Midan.html">Khasbag Midan</a></li>
-              <li><a href="Panhala-Fort.html">Panhala-Fort</a></li>
-              <li><a href="jotiba-temple.html">Jotiba-Temple</a></li>
-              <li ><a href="kaneri-math.html">Kanerimath</a></li>
-              <li><a href="mahalaxmi-temple">Mahalxmi-Temple</a></li>
-              <li><a href="rankala">Rankala</a></li>
-
-              </ul>
-          </div>
-        </div>
-        <div class="col-md-2">
-          <div class="box2">
-            <img src ="images/search.png" width="30" height="30" >
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="box2">
-
-            <center><h1> Welcome to Panhala Fort </h1></center>
+<?php
+include_once 'header.php';
+?>
+          <center><h1> Welcome to Panhala Fort </h1></center>
 
           </div>
         </div>
@@ -171,19 +107,11 @@
         </div>
       </div>
     </div>
-
-
-    <!-- Footer -->
-    <footer class="page-footer font-small blue">
-
-      <!-- Copyright -->
-      <div class="footer-copyright text-center py-3"><font size="3" color="black">© 2020 Copyright:
-        <a href="https://mdbootstrap.com/education/bootstrap/"> MyKolhapur.com</a></font>
-      </div>
-      <!-- Copyright -->
-
     </footer>
     <!-- Footer -->
+<?php
+include_once 'footer.php';
+?>
 
   </body>
 </html>
