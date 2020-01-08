@@ -81,7 +81,7 @@ input[type=text] {
 	color: #333;
  
   
-	min-height:100px;
+        min-height:100px;
 	overflow: hidden;
 }
 
@@ -93,13 +93,9 @@ input[type=text] {
 	
 }
 .p{
-  
+  font-size:10px;
   text-justify: 10px;
 }
 .page-footer font-small blue{
   background-color: black;
-  font-size:10px;
-  
-}.carousel {
-
-}
+  font-size:10px;}
