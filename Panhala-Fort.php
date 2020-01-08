@@ -1,14 +1,7 @@
 <?php
 include_once 'header.php';
 ?>
-          <center><h1> Welcome to Panhala Fort </h1></center>
-
-          </div>
-        </div>
-      </div>
-    </div>
-
-
+    <center><h1> Welcome to Panhala Fort </h1></center>
     <div class="">
       <div class="row">
         <div class="col-md-12">

@@ -7,7 +7,8 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
+  <title>My Kolhapur</title>
+  <style>
 * {box-sizing: border-box;}
 
 body { 
@@ -76,16 +77,16 @@ body {
   <img src="images/bread.jpg" width="1300" height="120" class="d-inline-block align-top" alt="">
   <div class="header-right">
     <br>
-    <a class="" href="#home">Home</a>
-    <a href="#contact">Mahalaxmi-Temple</a>
-    <a href="#about">New-Palace</a>
-    <a href="#contact">Khasbag-Maidan</a>
-    <a href="#about">Rankala</a>
-    <a href="#contact">Panhala-Fort</a>
-    <a href="#about">Jotiba-Temple</a>
-    <a href="#contact">Kaneri-Math</a>
-    <a href="#contact">Contact</a>
-    <a href="#about">About</a>
+    <a class="" href="index.php">Home</a>
+    <a href="mahalaxmi-temple.php">Mahalaxmi-Temple</a>
+    <a href="new-palace.php">New-Palace</a>
+    <a href="khasbag-maidan.php">Khasbag-Maidan</a>
+    <a href="rankala.php">Rankala</a>
+    <a href="Panhala-Fort.php">Panhala-Fort</a>
+    <a href="jotiba-temple.php">Jotiba-Temple</a>
+    <a href="kaneri-math.php">Kaneri-Math</a>
+    <a href="Contacts">Contact</a>
+    <a href="About">About</a>
     </div>
 </div>
  
