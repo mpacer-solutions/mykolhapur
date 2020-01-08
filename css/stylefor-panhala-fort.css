@@ -74,6 +74,7 @@ button{
 
 .box2{
 	
+<<<<<<< HEAD
 
   text-decoration: none;
 	font-weight:bold;
@@ -84,6 +85,8 @@ button{
 	overflow: hidden;
 }
 
+=======
+>>>>>>> a4188552fe0f856e291cd6530eed31778e8e7a69
 .box3{
 	overflow: hidden;
 }
@@ -92,13 +95,14 @@ button{
 	
 }
 .p{
-  
+  font-size:10px;
   text-justify: 10px;
 }
 .page-footer font-small blue{
   background-color: black;
   font-size:10px;
   
+<<<<<<< HEAD
 <<<<<<< HEAD
 }
 
@@ -183,3 +187,6 @@ body {
 }
 }
 
+=======
+}
+>>>>>>> a4188552fe0f856e291cd6530eed31778e8e7a69
