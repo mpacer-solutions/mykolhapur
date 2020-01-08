@@ -74,10 +74,13 @@ input[type=text] {
 
 .box2{
 	
+<<<<<<< HEAD
+=======
   text-decoration: none;
 	font-weight:bold;
 	color: #333;
   
+>>>>>>> c47b638d53118966c4203c80e02a00fa7ab51092
 	min-height:100px;
 	overflow: hidden;
 }
