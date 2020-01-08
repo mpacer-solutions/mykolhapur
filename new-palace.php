@@ -1,4 +1,5 @@
-
+<?php
+?>
 <html>
 	<head>
 		<link rel="stylesheet" href="css/style.css">
@@ -148,3 +149,4 @@
 		</div></div>
 	</body>
 	</html>
+
