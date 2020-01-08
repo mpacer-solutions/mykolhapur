@@ -73,26 +73,12 @@ button{
 
 
 .box2{
-
-<<<<<<< HEAD
   text-decoration: none;
 	font-weight:bold;
-	color: #333;
-
-  
+	color: #333;  
 	min-height:100px;
 	overflow: hidden;
 }
-<<<<<<< HEAD
-.h2{
-	font-weight:bold;
-  color: blue;
-}
-=======
-
-=======
->>>>>>> a4188552fe0f856e291cd6530eed31778e8e7a69
->>>>>>> fe19fc87dd868ece316336bd0bb00e57ddbd5a6b
 .box3{
 	overflow: hidden;
 }
@@ -108,8 +94,6 @@ button{
   background-color: black;
   font-size:10px;
   
-<<<<<<< HEAD
-<<<<<<< HEAD
 }
 
 
@@ -191,10 +175,3 @@ body {
 
 
 }
-}
-
-=======
-}
->>>>>>> a4188552fe0f856e291cd6530eed31778e8e7a69
-=======
->>>>>>> a5690c3145a76a95ae37b6c7559178b82fd06e8f
