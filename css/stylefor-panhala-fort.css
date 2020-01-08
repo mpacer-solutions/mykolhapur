@@ -74,6 +74,13 @@ input[type=text] {
 
 .box2{
 	
+<<<<<<< HEAD
+=======
+  text-decoration: none;
+	font-weight:bold;
+	color: #333;
+  
+>>>>>>> c47b638d53118966c4203c80e02a00fa7ab51092
 	min-height:100px;
 	overflow: hidden;
 }
@@ -86,13 +93,11 @@ input[type=text] {
 	
 }
 .p{
-  
+  font-size:10px;
   text-justify: 10px;
 }
 .page-footer font-small blue{
   background-color: black;
   font-size:10px;
   
-}.carousel {
-
 }
