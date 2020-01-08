@@ -74,13 +74,6 @@ input[type=text] {
 
 .box2{
 	
-  text-decoration: none;
-	font-weight:bold;
-	color: #333;
-  
-	min-height:100px;
-	overflow: hidden;
-}
 
 .box3{
 	overflow: hidden;
@@ -90,13 +83,11 @@ input[type=text] {
 	
 }
 .p{
-  
+  font-size:10px;
   text-justify: 10px;
 }
 .page-footer font-small blue{
   background-color: black;
   font-size:10px;
   
-}.carousel {
-
 }
