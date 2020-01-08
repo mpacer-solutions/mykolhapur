@@ -1,3 +1,6 @@
+<?php
+?>
+
 <html>
 	<head>
 		<link rel="stylesheet" href="css/stylefor-panhala-fort.css">
@@ -10,74 +13,7 @@
                       <title>Jotiba-Temple</title>
         </head>
         <body>
-              <div class="">
-                <div class="row">
-                   <div class="col-md-12">
-                   
-​                       <div>
-                        <!-- Header Image and text -->
-                           <nav class="navbar navbar-toggler bg-toggler">
-                            <a class="navbar-toggler" href="#">
-                            <img src="images/logo.jpg" width="130" height="100" class="d-inline-block align-top" alt="">
-                            <img src="images/bread.jpg" width="900" height="100" class="d-inline-block align-top" alt="">
-                            <font color="red" size="50"></font>
-                            </a>
-                           </nav>
-                        </div>
-                      </div>
-                   </div>
-                </div>
-             </div>
-​
-
-    <div class="">
-      <div class="row">
-        <div class="col-md-4">
-          <div class="box2">
-            <img src="images/logo2.jpg" width="130" height="100"> 
-            <font face="calibari" color="Green" size="5"> Know About Kolhapur</font>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="box2">
-            <ul class="second-navigation">
-              <li ><a href="index.html">Home</a></li>
-              <li><a href="khasbag_Midan.html">Khasbag Midan</a></li>
-              <li><a href="Panhala-Fort.html">Panhala-Fort</a></li>
-              <li><a href="jotiba-temple.html">Jotiba-Temple</a></li>
-              <li ><a href="kaneri-math.html">Kanerimath</a></li>
-              <li><a href="mahalaxmi-temple">Mahalxmi-Temple</a></li>
-              <li><a href="rankala">Rankala</a></li>
               
-            </ul>
-          </div>
-        </div>
-        <div class="col-md-2">
-          <div class="box2">
-            <img src ="images/search.png" width="30" height="30" >
-          </div>
-        </div>
-      </div>
-    </div>
-​
-
-    <div class="">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="box2">
-
-
-          </div>
-        </div>
-      </div>
-    </div>
-
-
-    <div class="">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="box2">
-            <div class="container-fluid">
                     <center><h1 style="color:blue"><b>Welcome To Jotiba<b></h1></center><br>
          <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
@@ -180,17 +116,7 @@
 		</div>
 		</div>
 		</div></div>
-                  <!-- Footer -->
-    <footer class="page-footer font-small blue">
-
-      <!-- Copyright -->
-      <div class="footer-copyright text-center py-3"><font size="3" color="black">© 2020 Copyright:
-        <a href="https://mdbootstrap.com/education/bootstrap/"> MyKolhapur.com</a></font>
-      </div>
-      <!-- Copyright -->
-
-    </footer>
-    <!-- Footer -->
+   
 		</body>
 </html>
                 
