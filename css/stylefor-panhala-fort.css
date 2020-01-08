@@ -81,7 +81,10 @@ input[type=text] {
 	min-height:100px;
 	overflow: hidden;
 }
-
+.h2{
+	font-weight:bold;
+  color: blue;
+}
 .box3{
 	overflow: hidden;
 }
