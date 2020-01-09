@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Creating Fixed Header and Footer with CSS</title>
+<title></title>
 <style>
     /* Add some padding on document's body to prevent the content
     to go underneath the header and footer */

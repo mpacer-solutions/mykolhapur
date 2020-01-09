@@ -74,7 +74,7 @@ body {
   <a href="#default" class="logo"> <img src="images/header/logo2.jpg" width="400" height="120"> <br><br>
     <font face="aparajita" color="red" size="7">जगात भारी आम्ही कोल्हापुरी</font>
   </a><br>
-  <img src="images/bread.jpg" width="1300" height="120" class="d-inline-block align-top" alt="">
+  <img src="images/bread.jpg" width="1200" height="120" class="d-inline-block align-top" alt="">
   <div class="header-right">
     <br>
     <a class="" href="index.php">Home</a>
