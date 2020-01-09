@@ -138,7 +138,7 @@ The temple belongs, architecturally, to the Kannada Chalukya empire, and may hav
                     <p> 1.Mahalaxmi Temple <br>
                         2.Panhala<br>
                     3.Rankala Lake</p>
-                    <img src="images/see.png" class="img-responsive" alt="Chicago"  style="width:100%; height:70%;">
+                    <img src="images/m4.png" class="img-responsive" alt="Chicago" style="width:100%; height:70%;">
 
                 </div>
             </div>
