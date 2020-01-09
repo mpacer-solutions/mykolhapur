@@ -26,15 +26,15 @@ include_once 'header.php';
     <!-- Wrapper for slides -->
         <div class="carousel-inner">
           <div class="item active">
-            <img src="images/Jotibaimage/temple.JPG" width="100%" height="100">
+            <img src="images/Jotibaimage/temple.JPG" >
           </div>
            
             <div class="item">
-              <img src="images/Jotibaimage/god.JPG" width="100%" height="100">
+              <img src="images/Jotibaimage/god.JPG" >
             </div>
       
             <div class="item">
-              <img src="images/Jotibaimage/images.JPG" width="100%" height="100">
+              <img src="images/Jotibaimage/images.JPG">
             </div>
      
         </div>
@@ -106,7 +106,7 @@ include_once 'header.php';
                                 4.Gaimukh<br>
                            
             
-            <img src="images/Jotibaimage/ghat.jpg" width="500" height="300">
+            <img src="images/Jotibaimage/gaimukh.jpg" width="500" height="300">
 		</div>
 		</div>
 		</div></div>
